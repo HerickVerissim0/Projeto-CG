@@ -1,2 +1,2 @@
 # Projeto-CG
-Projeto criado a partir da Linguagem C com intuito de aperfeiçoar habilidades em CG
+Projeto criado utilziando Linguagem C em conjunto com OpenGL.
